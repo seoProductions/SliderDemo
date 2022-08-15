@@ -21,6 +21,7 @@ public class App extends Application{
         currentStage.setScene(scene);
         currentStage.show();
 
+        //cool stuff
     }
 
     public static void main(String[] args) throws Exception {
