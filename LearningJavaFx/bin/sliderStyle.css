@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: #F3FCF0;
+    -fx-background-radius: 3;
+    -fx-font-family: "Gill Sans MT";
+
+}
+#topbar{
+    -fx-background-color: rgb(255, 210, 63); 
+}
+.buton{
+    -fx-background-color: #F3FCF0;
+    -fx-background-radius: 3;
+    color: #1F271B
+}
+.slider .track{
+    -fx-background-color: #540D6E;
+}
+.slider .thumb{
+    -fx-pref-height: 20px;
+    -fx-pref-width: 10px;
+    -fx-background-color: #EE4266;
+}
